@@ -1,3 +1,7 @@
 I am doing some development. DND mode now.
+<<<<<<< Updated upstream
 Still doing some more development.
 Called againg by my Manager.
+=======
+Still doing some more development.
+>>>>>>> Stashed changes
