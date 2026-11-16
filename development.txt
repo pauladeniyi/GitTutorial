@@ -4,4 +4,4 @@ Still doing some more development.
 Called againg by my Manager.
 =======
 Still doing some more development.
->>>>>>> Stashed changes
+Called againg by my Manager.
